@@ -4,6 +4,11 @@ Easy state management for react using hooks in less than 1kb.
 
 ------------
 
+Install:
+
+```javascript
+npm i use-global-hook
+```
 
 Minimal example:
 ```javascript
